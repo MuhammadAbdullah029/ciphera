@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+
+# Flask instance and configuration files
+instance/
+*.db
+*.sqlite3
+*.sqlite
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+
+# Flask logs
+*.log
+*.pid
+*.seed
+*.cover
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Distribution / packaging
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Migrations (optional — include if using Flask-Migrate)
+migrations/
+
+# Static / cache (optional)
+*.sass-cache
+staticfiles/
+static/
+media/
+uploads/
+
+# PyCharm
+__pycache__/
+.idea/
+*.iml
