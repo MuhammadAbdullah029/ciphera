@@ -82,12 +82,7 @@ Thumbs.db
 # Migrations (optional — include if using Flask-Migrate)
 migrations/
 
-# Static / cache (optional)
-*.sass-cache
-staticfiles/
-static/
-media/
-uploads/
+
 
 # PyCharm
 __pycache__/
